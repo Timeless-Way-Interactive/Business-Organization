@@ -517,54 +517,71 @@ Title (if any): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # **Exhibit A — Statement of Business Practices (Non-Binding)**
 
-This Exhibit describes how the Company currently pursues its mission. It is deliberately non-binding: it is a map, not a rulebook. The Committee may revise it by Majority without amending the Agreement, and nothing in it obligates or limits any Member — under Section 5.1, each Member decides which of these practices to pursue with their own share of resources. Each practice is listed with the values it chiefly serves.
+This Exhibit describes how the Company currently pursues its mission. It is deliberately non-binding: it is a map, not a rulebook. The Committee may revise it by Majority without amending the Agreement, and nothing in it obligates or limits any Member — under Section 5.1, each Member decides which of these practices to pursue with their own share of resources.
 
-## **Make the games**
+**Method: a field of centers.** This Exhibit is organized after Christopher Alexander’s method of approaching a quality that no single term can name. The mission — *generate more games, sustainably, with genuine depth* — is the center of the field. No practice reaches it directly. Instead, the seven Values of the Preamble surround the mission as overlapping approximations of it, and each Value is in turn approximated by concrete Tactics — the practices listed below. Every Tactic is listed under the Value it chiefly approximates, with its overlaps noted, because the overlaps are the point: most Tactics serve several Values at once, and each center strengthens the centers around it. The field is a work in progress by design — Tactics are added, retired, and re-centered as the Company learns, by Majority revision of this Exhibit and without amending the Agreement.
 
-*Values served: Entertainment · Education · Solvency*
+## **The center: Game Development**
 
-  - **Develop games.** The center of everything. A sustained cadence of finished, shipped games with genuine depth — the mission, executed. Every other practice on this list exists to feed, fund, or grow this one.
-  - **Vibe coding.** AI-assisted rapid prototyping to test ideas cheaply and kill bad ones early. Prototypes are for learning speed, not shipped quality; what survives gets rebuilt with craft.
+One Tactic sits at the middle of the field, nearest the mission itself, because it is the mission executed: a sustained cadence of finished, shipped games with genuine depth. Every Value approximates it and every other Tactic exists to feed, fund, or grow it. 
 
-## **Build in public**
+## **Entertainment**
 
-*Values served: Community · Entertainment · Education*
+*Games are tools that convey an experience; fun is the craft itself. Approximated by:*
 
-  - **YouTube content.** Devlogs, design essays, and postmortems that entertain and teach while documenting the work — a durable public record of the craft.
-  - **TikTok marketing.** Short-form reach: clips, hooks, and moments from the games and the process that pull new people toward the longer content.
-  - **Discord funnel.** Public content feeds the Discord; the Discord is where audience becomes community — playtesters, crowdfunding backers, students, and eventually recruits.
-  - **In-person events.** Meetups, jams, conventions, and showcases: comradery and community are built face to face.
+  - **YouTube Content.** Devlogs, design essays, and postmortems that entertain and teach while documenting the work — a durable public record of the craft. *(also: Education · Community)*
+  - **Coding Adventures.** Programming as spectacle: serialized builds, challenges, and experiments where the making itself is the show. *(also: Education)*
+  - **Parody Animation.** Short animated parody — comedy about games, the industry, and the craft, made to be enjoyed on its own terms. *(also: Community)*
+  - **Musical Commentary.** Songs and musical pieces commenting on games, work, and the industry — entertainment that carries a point of view. *(also: Politics)*
 
-## **Teach what we know**
+## **Education**
 
-*Values served: Education · Solvency · Community*
+*The Company teaches, shows its work, and expects learning to flow both ways. Approximated by:*
 
-  - **Skillsharing courses.** Structured teaching — game design, engineering, and production craft — as both an educational mission and a revenue stream that smooths the gaps between game launches.
-  - **Candid discourse.** Talking openly about money, process, failures, and the realities of the industry — in public content and inside the Company. Candor is the Company’s pedagogy and its culture; Section 5.4 builds it into governance.
+  - **Gamedev Tutorials.** Direct instructional content on game design, engineering, and production craft, shared openly. *(also: Community · Solvency)*
+  - **Skillsharing Courses.** Structured teaching as both an educational mission and a revenue stream that smooths the gaps between game launches. *(also: Solvency)*
+  - **Proactive Mentorship.** Deliberately cultivating newcomers, candidates, and contractors rather than waiting for them — the contractor-to-member pipeline (Sections 2.3, 3.3) practiced as teaching. *(also: Comradery · Equity)*
 
-## **Stay alive**
+## **Solvency**
 
-*Values served: Solvency · Community*
+*The Company stays alive; financial health is the precondition of every other value. Approximated by:*
 
-  - **Moonlighting.** Members are encouraged to take outside work (Section 7.5) — it diversifies personal income, de-risks the Company’s payroll, and imports skills and industry knowledge.
-  - **Crowdfunding.** Funding games from the community that wants them, keeping ownership where it belongs instead of trading it for capital.
-  - **Revenue-share contracts.** Growing capacity without payroll risk (Article 3): contractors share in what the work earns, aligning their stake with the Company’s solvency.
+  - **Moonlighting.** Members are encouraged to take outside work (Section 7.5) — it diversifies personal income, de-risks the Company’s payroll, and imports skills and industry knowledge. In lean seasons it is also the Company’s shock absorber (Section 9.3). *(also: Education)*
+  - **Crowdfunding.** Funding games from the community that wants them, keeping ownership where it belongs instead of trading it for capital. *(also: Community)*
+  - **Revenue Share.** Growing capacity without payroll risk (Article 3): contractors share in what the work earns, aligning their stake with the Company’s solvency. *(also: Equity)*
   - **No debt, no leverage.** The Company does not borrow and never puts the Work Pool up as collateral (Section 9.4). Lean seasons are met with slowdown, moonlighting, and dormancy (Section 9.3) — never with loans, and never with dissolution.
 
-## **Grow the collective**
+## **Community**
 
-*Values served: Comradery · Community · Equity*
+*Players, peers, students, and collaborators are participants in the work, not an audience. Approximated by:*
 
-  - **Long-term partnerships.** Preferring durable collaborations over transactional gigs — with contractors, fellow studios, and platforms alike.
-  - **Active recruiting.** Deliberately seeking future Members rather than waiting for them; the contractor path (Section 3.3) is the pipeline.
-  - **Promoting colleagues.** Boosting the work of peers, collaborators, and fellow workers — comradery practiced outward, on the theory that the scene rises together.
+  - **TikTok Marketing.** Short-form reach: clips, hooks, and moments from the games and the process that pull new people toward the longer content. *(also: Entertainment)*
+  - **Discord Funnel.** Public content feeds the Discord; the Discord is where audience becomes community — playtesters, crowdfunding backers, students, and eventually recruits. *(also: Comradery)*
+  - **In-Person Events.** Meetups, jams, conventions, and showcases: comradery and community are built face to face. *(also: Comradery)*
 
-## **Practice our politics**
+## **Comradery**
 
-*Values served: Politics · Equity · Comradery*
+*Members and collaborators treat one another as comrades, in and out of the work. Approximated by:*
 
-  - **Worker advocacy.** Openly supporting fair treatment, fair pay, and organizing rights for game workers everywhere — not only our own.
-  - **The socialist cause.** The Company’s structure — equal seats, no buy-in, labor owning its work — is worker ownership practiced, not professed. The Company supports the broader movement for democratic, worker-owned production, and says so plainly.
+  - **Promoting Colleagues.** Boosting the work of peers, collaborators, and fellow workers — comradery practiced outward, on the theory that the scene rises together. *(also: Community)*
+  - **Candid Discourse.** Talking openly about money, process, failures, and the realities of the industry — in public content and inside the Company. Candor is the Company’s pedagogy and its culture; Section 5.4 builds it into governance. *(also: Education)*
+  - **Labor Exchange.** Trading work for work — art for code, music for design, playtesting for feedback — among Members and with peers, so that collaboration runs on reciprocity rather than cash. *(also: Community · Equity)*
+  - **Long-term Partnerships.** Preferring durable collaborations over transactional gigs — with contractors, fellow studios, and platforms alike. *(also: Community · Equity)*
+
+## **Politics**
+
+*The Company is not neutral; its structure is its politics, practiced rather than professed. Approximated by:*
+
+  - **Worker Advocacy.** Openly supporting fair treatment, fair pay, and organizing rights for game workers everywhere — not only our own. *(also: Comradery · Equity)*
+  - **Socialist Policy.** Openly supporting the broader movement for democratic, worker-owned production — advocating the policies and structures that make labor ownership possible beyond this Company, and saying so plainly. *(also: Equity)*
+
+## **Equity**
+
+*Equal ownership, equal voice, equal share — no senior owners, no buy-in, no boss. Approximated by:*
+
+  - **Equal Ownership.** The Company’s own structure practiced as a tactic: equal Seats, no buy-in, labor owning its work (Preamble; Articles 2, 5, and 8). Worker ownership demonstrated is worker ownership advocated. *(also: Politics)*
+
+Equity is the value most nearly practiced through structure itself; beyond Equal Ownership, it is approximated from the surrounding centers — Revenue Share (Solvency), Labor Exchange and Long-term Partnerships (Comradery), Proactive Mentorship (Education), and Worker Advocacy (Politics).
 
 # **Exhibit B — Form of Individual Contributor Agreement**
 
