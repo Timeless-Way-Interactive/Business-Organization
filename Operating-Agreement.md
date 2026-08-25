@@ -56,6 +56,10 @@ Article 8 — Finances
 
 Article 9 — Availability of Work and Financial Distress
 
+    9.1 Monitoring · 9.2 Work Hours; Part-Time and Furloughed Members
+
+    9.3 Financial Distress: Slowdown, Not Dissolution · 9.4 No Company Debt; No Encumbrance of Company IP
+
 Article 10 — Records, Reports, and Taxes
 
 Article 11 — Dissolution and Winding Up
@@ -76,7 +80,7 @@ Exhibit C — Form of Member Perpetual IP License (separate document)
 
 This Operating Agreement (this “Agreement”) governs Timeless Way Interactive, LLC, a Texas limited liability company (the “Company” or the “Cooperative”), and the relationship among its Members. The Company is formed to develop, publish, and sustain video games and related creative works, and to do so as a democratically governed, worker-owned enterprise in which the people who do the work own the work and govern themselves as equals.
 
-**Founding posture.** As of the Effective Date the Company has a single Member (the “Founding Member”). While the Company has only one Member, it operates as a single-member LLC and the cooperative governance and economic provisions of Articles 4 through 9 are dormant. Those provisions activate automatically upon the admission of the second Member, at which point the Company becomes a multi-member, worker-owned cooperative governed by the full terms below.
+**Founding posture.** As of the Effective Date the Company has a single Member (the “Founding Member”). While the Company has only one Member, it operates as a single-member LLC and the cooperative governance and economic provisions of Articles 4 through 9 are dormant — except Section 9.4 (no Company debt; no encumbrance of Company IP), which applies from the Effective Date at all times. The dormant provisions activate automatically upon the admission of the second Member, at which point the Company becomes a multi-member, worker-owned cooperative governed by the full terms below.
 
 ## **Our Mission**
 
@@ -216,7 +220,7 @@ Every ICA must assign to the Company all intellectual property the Contractor cr
 
 # **Article 4 — Termination of Membership**
 
-*The provisions of this Article and of Articles 5 through 9 activate upon admission of the second Member and are dormant while the Company has a single Member.*
+*The provisions of this Article and of Articles 5 through 9 activate upon admission of the second Member and are dormant while the Company has a single Member — except Section 9.4, which applies from the Effective Date at all times.*
 
 ## **4.1 Resignation**
 
@@ -261,9 +265,9 @@ Only the following are Committee matters. Everything not listed here is an indiv
 3.  Accepting a project into the Work Pool (Section 7.2);
 4.  Selling Company IP or granting an exclusive license to it;
 5.  Establishing the Collective Seat and admitting Contractors to the Contractor Pool (Section 3.4);
-6.  Entering publishing, licensing, financing, or debt arrangements that bind the Company as a whole;
+6.  Entering publishing, licensing, or financing arrangements that bind the Company as a whole — subject in every case to Section 9.4, which prohibits borrowing and any encumbrance of Company IP;
 7.  Setting annual reserves and confirming the annual distribution (Article 8);
-8.  Adopting a Financial Stability Plan (Section 9.3); and
+8.  Collective conservation measures during financial distress (Section 9.3); and
 9.  Dissolution (Article 11) and any matter the Act reserves to the members.
 
 For clarity: day-to-day creative, production, and business decisions — art, design, engineering, tooling, marketing content, individual moonlighting, Shared Member Seat Arrangements, and conventional contractor engagements within a Member’s own resources — are not Committee matters.
@@ -340,7 +344,7 @@ The Company places no restriction on a Member pursuing creative or commercial pr
 
 ## **8.1 Definitions**
 
-1.  **“Expenses”** means the Company’s operating expenses, including wages, contractor compensation, rent, software, hardware, and interest and principal on Company debt.
+1.  **“Expenses”** means the Company’s operating expenses, including wages, contractor compensation, rent, software, hardware, and amounts payable on Permitted Obligations under Section 9.4. The Company carries no borrowed debt (Section 9.4), so Expenses never include interest or principal on borrowings.
 2.  **“Surplus”** means the excess of revenues over Expenses for a fiscal year, on a pre-tax basis, excluding any capital contributions.
 3.  **“Loss”** means the excess of Expenses over revenues for a fiscal year.
 4.  **“Distributable Amount”** means, for any distribution, the amount the Committee confirms as available after reserves under Section 8.3.
@@ -408,13 +412,28 @@ The Treasurer monitors the Company’s financial health and informs the Members 
 
 Members may work as much or as little as they choose, subject to any minimum-participation policy the Committee adopts. Where the Company cannot fund full participation for everyone, a Member may become part-time or furloughed. A part-time or furloughed Member keeps full voting rights but accrues a reduced economic allocation (part-time) or no new allocation (furlough) for the affected period, consistent with the pro-rating in Section 8.3.
 
-## **9.3 Financial Distress Process**
+## **9.3 Financial Distress: Slowdown, Not Dissolution**
 
-If the Company cannot meet its obligations, the Members address it in this order: (1) the Treasurer presents the Company’s finances and the size of the shortfall; (2) the Company calls for voluntary pay reductions, furloughs, and part-time arrangements, each at the affected person’s discretion and each ended as soon as the Company can pay full rates again; and (3) if voluntary measures are insufficient, the Members adopt a binding Financial Stability Plan, which may include mandatory reductions, suspending admissions to the Contractor Pool, ending contractor engagements as their ICAs permit, and other savings. A distress decision is made under Section 5.2, except that if a Supermajority cannot be reached after a follow-up meeting the matter may be decided by Majority, and if no Majority is reached the Treasurer chooses among the presented plans.
+The Company is structured so that financial distress cannot kill it. Because the Company carries no debt (Section 9.4), compensates Members and revenue-share Contractors only out of Surplus that actually exists, and requires no payroll to survive, a period without revenue is a period of slowdown — not a crisis that forces liquidation. When the Company cannot fund full participation for everyone, or cannot meet its ordinary Expenses, the Members respond in this order:
 
-## **9.4 Dissolution as Last Resort**
+1.  **Transparency.** The Treasurer presents the Company’s finances and the size and expected duration of the shortfall;
+2.  **Individual refocus.** Each Member — at their own discretion, and according to their own needs and capabilities — shifts effort toward moonlighting, outside employment, and other personal income (Section 7.5), reduces or suspends their draw, and scales their Company work down to part-time or furlough status under Section 9.2. These adjustments are the paradigm application of Section 5.1 autonomy: no vote is required, no Member may be compelled to reduce pay or hours, and each arrangement ends when the affected Member chooses;
+3.  **Collective conservation.** The Committee may, as reserved matters under Section 5.3, suspend admissions to the Contractor Pool, wind down conventional contractor engagements as their ICAs permit, and cancel or defer discretionary Expenses; and
+4.  **Dormancy rather than dissolution.** If the Company cannot fund any active work, it goes dormant rather than dissolving: it maintains its existence, filings, records, and ownership of the Work Pool at minimal cost while Members pursue their own work under their Section 7.3 licenses, and collective work resumes when conditions and Members’ capacities allow.
 
-If no Financial Stability Plan can address the Company’s obligations, the Members may vote to dissolve under Article 11.
+**Financial distress is never, by itself, grounds for dissolution.** Absence of revenue, inability to fund active development, or exhaustion of reserves is addressed by the slowdown-and-dormancy process above, not by winding up the Company, and shall not be treated as a failure of purpose or deadlock supporting dissolution. Nothing in this Section limits the Members’ right to dissolve voluntarily under Article 11 for reasons of their own choosing.
+
+## **9.4 No Company Debt; No Encumbrance of Company IP**
+
+The Company does not borrow. Debt is the one force that could take the Work Pool out of the Members’ hands or convert a quiet season into a cascade of obligations, and the survival-by-slowdown posture of Section 9.3 holds only if no creditor can force the issue. Accordingly:
+
+1.  **No borrowing.** The Company shall not borrow money, issue notes or other debt instruments, enter into leases or purchase arrangements that function as financing, or guarantee or become surety for the obligation of any person, except the Permitted Obligations in clause 4;
+2.  **No encumbrance of Company IP.** The Company shall not pledge, mortgage, grant a security interest in, or otherwise encumber any Company IP, and no Company IP may serve as collateral for any obligation of the Company, of any Member, or of anyone else. Any purported encumbrance of Company IP is void;
+3.  **No individual authority; personal debt stays personal.** No Member, Officer, or agent has authority to bind the Company to any obligation this Section prohibits. Any attempt is unauthorized and void as against the Company, and the person who incurred it bears it personally. Consistent with Section 5.1, a Member remains free to borrow personally, against their own assets and their own share — but personal debt creates no claim against the Company, any other Member, or Company IP;
+4.  **Permitted Obligations.** The Company may incur only: (a) ordinary trade payables incurred in the ordinary course of business and payable within ninety (90) days (for example, software subscriptions, rent, and vendor invoices); (b) taxes and other government charges; (c) the payout debt owed to former Members under Section 8.7, which arises by operation of this Agreement rather than by borrowing; and (d) contingent revenue-share compensation under Article 3, which by its terms is payable only out of Surplus that exists and therefore cannot cascade; and
+5.  **Unanimity to change.** This Section may be amended, and any exception to it granted, only by unanimous written consent of all Members — not the Supermajority that suffices elsewhere — because a single borrowing can put every Member’s work at risk.
+
+Notwithstanding the founding-posture provision of the Preamble, this Section applies from the Effective Date, including while the Company has a single Member.
 
 # **Article 10 — Records, Reports, and Taxes**
 
@@ -438,7 +457,7 @@ Within ninety (90) days after the end of each tax year, the Company sends each M
 
 ## **11.1 Events of Dissolution**
 
-The Company dissolves on the earlier of a Supermajority vote of the Members to dissolve, or a decree of judicial dissolution under the Act.
+The Company dissolves on the earlier of a Supermajority vote of the Members to dissolve, or a decree of judicial dissolution under the Act. Consistent with Section 9.3, financial distress is never, by itself, grounds for dissolution: absence of revenue or inability to fund active work is addressed by slowdown and dormancy, and no Member shall vote for dissolution, or seek judicial dissolution, on the basis of financial distress alone.
 
 ## **11.2 Winding Up**
 
@@ -466,7 +485,7 @@ The Company indemnifies its Members and Officers, to the fullest extent the Act 
 
 ## **13.1 Amendments**
 
-Any Member may propose an amendment to this Agreement. An amendment is adopted only on Supermajority approval of the Members. While the Company has a single Member, the Founding Member may amend this Agreement in writing, consistent with the Act. Exhibit A (the Statement of Business Practices) is non-binding and may be revised by Majority without formal amendment; the forms at Exhibits B and C may be updated by the Secretary, provided updates conform to Articles 3 and 7.
+Any Member may propose an amendment to this Agreement. An amendment is adopted only on Supermajority approval of the Members, except that Section 9.4 may be amended, and exceptions to it granted, only by unanimous written consent of all Members as that Section provides. While the Company has a single Member, the Founding Member may amend this Agreement in writing, consistent with the Act. Exhibit A (the Statement of Business Practices) is non-binding and may be revised by Majority without formal amendment; the forms at Exhibits B and C may be updated by the Secretary, provided updates conform to Articles 3 and 7.
 
 ## **13.2 Governing Law**
 
@@ -530,6 +549,7 @@ This Exhibit describes how the Company currently pursues its mission. It is deli
   - **Moonlighting.** Members are encouraged to take outside work (Section 7.5) — it diversifies personal income, de-risks the Company’s payroll, and imports skills and industry knowledge.
   - **Crowdfunding.** Funding games from the community that wants them, keeping ownership where it belongs instead of trading it for capital.
   - **Revenue-share contracts.** Growing capacity without payroll risk (Article 3): contractors share in what the work earns, aligning their stake with the Company’s solvency.
+  - **No debt, no leverage.** The Company does not borrow and never puts the Work Pool up as collateral (Section 9.4). Lean seasons are met with slowdown, moonlighting, and dormancy (Section 9.3) — never with loans, and never with dissolution.
 
 ## **Grow the collective**
 
@@ -556,4 +576,4 @@ The current form of Member Perpetual IP License is maintained by the Secretary a
 
 |  |
 | :-: |
-| \*\*FINAL CHECKLIST BEFORE THIS IS REAL\*\*1\\. Texas business attorney reviews the whole document, especially Article 7 (IP), the contractor IP-assignment clause (3.7), and the two contractor seat structures (3.4, 3.5).2\\. CPA familiar with cooperatives decides: partnership-taxed LLC with equal allocations (as drafted) vs. Subchapter T with patronage (hours-based) allocation. This changes Sections 8.3, 8.4, and 10.3.3\\. CPA reviews the Collective Seat compensation mechanics (note at 3.4) and the Shared Member Seat tax ordering (note at 3.5) — including worker-classification risk for long-running revenue-share contractors.4\\. Confirm the mandatory minimum cash percentage in 8.4 (drafted at 20%).5\\. Decide whether to keep the license IP model (primary) or switch to full co-ownership.6\\. Fill in the Effective Date and signature blanks; execute Exhibit C instruments with each Member.7\\. Delete every drafting note (the shaded boxes) from the final signed version. |
+| \*\*FINAL CHECKLIST BEFORE THIS IS REAL\*\*1\\. Texas business attorney reviews the whole document, especially Article 7 (IP), the contractor IP-assignment clause (3.7), the two contractor seat structures (3.4, 3.5), and the no-debt / IP-anti-encumbrance provisions (9.3, 9.4) — including whether the restriction on seeking judicial dissolution in 11.1 is enforceable under the Act.2\\. CPA familiar with cooperatives decides: partnership-taxed LLC with equal allocations (as drafted) vs. Subchapter T with patronage (hours-based) allocation. This changes Sections 8.3, 8.4, and 10.3.3\\. CPA reviews the Collective Seat compensation mechanics (note at 3.4) and the Shared Member Seat tax ordering (note at 3.5) — including worker-classification risk for long-running revenue-share contractors.4\\. Confirm the mandatory minimum cash percentage in 8.4 (drafted at 20%).5\\. Decide whether to keep the license IP model (primary) or switch to full co-ownership.6\\. Fill in the Effective Date and signature blanks; execute Exhibit C instruments with each Member.7\\. Delete every drafting note (the shaded boxes) from the final signed version. |
