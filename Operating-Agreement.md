@@ -523,7 +523,7 @@ This Exhibit describes how the Company currently pursues its mission. It is deli
 
 ## **The center: Game Development**
 
-One Tactic sits at the middle of the field, nearest the mission itself, because it is the mission executed: a sustained cadence of finished, shipped games with genuine depth. Every Value approximates it and every other Tactic exists to feed, fund, or grow it. 
+One Tactic sits at the middle of the field, nearest the mission itself, because it is the mission executed: a sustained cadence of finished, shipped games with genuine depth. Every Value approximates it and every other Tactic exists to feed/fund it. 
 
 ## **Entertainment**
 
@@ -590,7 +590,3 @@ The current form of Individual Contributor Agreement is maintained by the Secret
 # **Exhibit C — Form of Member Perpetual IP License**
 
 The current form of Member Perpetual IP License is maintained by the Secretary as a separate document, “Timeless Way Interactive — Member Perpetual License to Company Intellectual Property,” and is incorporated here by reference. Updates to the form must conform to Article 7.
-
-|  |
-| :-: |
-| \*\*FINAL CHECKLIST BEFORE THIS IS REAL\*\*1\\. Texas business attorney reviews the whole document, especially Article 7 (IP), the contractor IP-assignment clause (3.7), the two contractor seat structures (3.4, 3.5), and the no-debt / IP-anti-encumbrance provisions (9.3, 9.4) — including whether the restriction on seeking judicial dissolution in 11.1 is enforceable under the Act.2\\. CPA familiar with cooperatives decides: partnership-taxed LLC with equal allocations (as drafted) vs. Subchapter T with patronage (hours-based) allocation. This changes Sections 8.3, 8.4, and 10.3.3\\. CPA reviews the Collective Seat compensation mechanics (note at 3.4) and the Shared Member Seat tax ordering (note at 3.5) — including worker-classification risk for long-running revenue-share contractors.4\\. Confirm the mandatory minimum cash percentage in 8.4 (drafted at 20%).5\\. Decide whether to keep the license IP model (primary) or switch to full co-ownership.6\\. Fill in the Effective Date and signature blanks; execute Exhibit C instruments with each Member.7\\. Delete every drafting note (the shaded boxes) from the final signed version. |
