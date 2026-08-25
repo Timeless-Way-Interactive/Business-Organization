@@ -51,7 +51,18 @@ The Company engages the Contributor, and the Contributor agrees, to perform the 
 1.  **Amount.** ☐ Fixed fee of $\_\_\_\_\_\_\_\_\_\_\_\_ ☐ Hourly rate of $\_\_\_\_\_\_\_\_\_\_\_\_ ☐ Per-milestone amounts stated in Exhibit 1.
 2.  **Invoicing and payment.** The Contributor invoices ☐ on completion ☐ monthly ☐ per milestone, and the Company pays within thirty (30) days of a correct invoice.
 
-**Transparency.** The Contributor acknowledges that, consistent with the Operating Agreement, the Contributor’s compensation form and Threshold are visible to all Members.
+### ***☐  Option D — Volunteer engagement (no compensation)***
+
+1.  **Voluntariness; why unpaid.** The Contributor volunteers the Services at their own initiative, as a Volunteer under Section 3.8 of the Operating Agreement. The Company’s goal is to compensate contributors; this engagement is unpaid because payment is not currently a viable path for the Contributor: ☐ a pre-existing obligation of the Contributor (for example, an employer’s non-compete, moonlighting, or conflict-of-interest restriction) prevents accepting compensation from a company in this industry ☐ other, described: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. The Company has not solicited unpaid labor in place of a compensated engagement, and volunteering is not a condition of candidacy or membership.
+2.  **No compensation.** No compensation is payable for the Services, and no deferred, retroactive, or contingent compensation accrues from them. When compensation becomes viable, a new agreement (or a signed amendment) under one of Options A–C applies prospectively only — and the Company’s intent is to make that move as soon as the constraint lifts.
+3.  **Withdrawal at will.** Notwithstanding Section 2, the Contributor may end this engagement at any time, effective immediately, without notice and without liability. Work Product already contributed remains assigned under Section 5.
+4.  **Everything else applies.** Credit (Section 6), the path to candidacy (Section 7), narrow confidentiality (Section 8), and non-exclusivity (Section 9) apply in full, and volunteer work counts toward the three-month period in Section 7.
+
+|  |
+| :-: |
+| \*\*NOTE — when Option D is appropriate\*\*Use Option D only where payment is not a viable path for the Contributor (Section 1 above) and the work is genuinely self-directed. Under wage law, a “volunteer” whose work is sustained or production-critical may be owed minimum wage regardless of this Agreement — a third party’s non-compete does not waive wage rights against this Company. Move any such contributor to a revenue-share option (A or B) with a real Threshold. See the drafting note at Section 3.8 of the Operating Agreement. |
+
+**Transparency.** The Contributor acknowledges that, consistent with the Operating Agreement, the Contributor’s engagement form and any Threshold are visible to all Members.
 
 ## **4. Independent Contractor Status**
 

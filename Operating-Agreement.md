@@ -30,7 +30,7 @@ Article 3 — Contractors and Non-Member Labor
 
     3.4 The Collective Seat · 3.5 Shared Member Seat Arrangements · 3.6 Conventional Engagements
 
-    3.7 Ownership of Contractor Work
+    3.7 Ownership of Contractor Work · 3.8 Volunteers
 
 Article 4 — Termination of Membership
 
@@ -118,9 +118,9 @@ In this Agreement, the following terms have the meanings given below. Other defi
 2.  **“Collective Seat”** means the single Seat that the Contractor Pool may collectively occupy under Section 3.4. The Collective Seat carries economic participation only; it carries no governance vote.
 3.  **“Committee”** means the assembly of all Members, in which each Member holds one (1) seat and one (1) vote. The Committee is the governing body of the Company, convened and exercised as described in Article 5 — that is, chiefly as a contingency.
 4.  **“Company IP”** means all intellectual property owned by the Company, including the Work Pool and all copyrights, trademarks, and other rights in it, as described in Article 7.
-5.  **“Contractor”** means a person engaged to perform work for the Company under Article 3 who is not a Member.
+5.  **“Contractor”** means a person engaged to perform work for the Company for compensation under Article 3 who is not a Member. A Volunteer is not a Contractor, though both are classes of contributor engaged under Article 3.
 6.  **“Contractor Pool”** means the group of Contractors admitted to the Collective Seat under Section 3.4.
-7.  **“Individual Contributor Agreement” or “ICA”** means a written agreement with a Contractor substantially in the form of Exhibit B, as maintained and updated by the Secretary.
+7.  **“Individual Contributor Agreement” or “ICA”** means a written agreement with a Contractor or Volunteer substantially in the form of Exhibit B, as maintained and updated by the Secretary.
 8.  **“Majority”** means more than fifty percent (50%) of all Members then in office.
 9.  **“Member”** means a natural person admitted to membership under Article 2 and not since terminated. Every Member is a worker-owner. The Company has a single class of Members.
 10. **“Membership”** means the rights and obligations of a Member under this Agreement, the Certificate of Formation, and the Act.
@@ -131,8 +131,9 @@ In this Agreement, the following terms have the meanings given below. Other defi
 15. **“Statement of Business Practices”** means the non-binding Exhibit A to this Agreement.
 16. **“Supermajority”** means at least sixty-seven percent (67%) of all Members then in office.
 17. **“Threshold”** means, for a given Contractor, the maximum compensation payable to that Contractor for a stated period, as defined in that Contractor’s ICA.
-18. **“Work Pool”** means the set of projects and creative works owned by the Company, as described in Section 7.2.
-19. **“Surplus,” “Loss,” “Distribution,”** and other financial terms have the meanings given in Section 8.1.
+18. **“Volunteer”** means a person who, at their own initiative and without compensation, contributes work to the Company under Section 3.8. A Volunteer is a class of contributor distinct from both Members and Contractors.
+19. **“Work Pool”** means the set of projects and creative works owned by the Company, as described in Section 7.2.
+20. **“Surplus,” “Loss,” “Distribution,”** and other financial terms have the meanings given in Section 8.1.
 
 # **Article 2 — Formation and Membership**
 
@@ -148,7 +149,7 @@ The Company has one (1) class of Members. All Members have equal governance righ
 
 There is no buy-in or capital contribution required to become a Member. Consistent with the Company’s practice of active recruiting and long-term partnership, Members are encouraged to identify and cultivate candidates. A person becomes a Member by satisfying all of the following:
 
-1.  Completing a candidacy period of six (6) months of work for the Company (the “Candidacy Period”), which the existing Members may shorten or waive by Supermajority vote;
+1.  Completing a candidacy period of six (6) months of work for the Company in any capacity — as a Contractor, a Volunteer, or otherwise (the “Candidacy Period”) — which the existing Members may shorten or waive by Supermajority vote;
 2.  Being approved for membership by the decision-making process in Section 5.2;
 3.  Receiving and acknowledging a copy of this Agreement and any then-current worker handbook; and
 4.  Executing a joinder agreeing to be bound by this Agreement.
@@ -163,15 +164,16 @@ No Member may sell, assign, pledge, or otherwise transfer their Membership or an
 
 ## **3.1 Purpose and Posture**
 
-The Company engages Contractors both for specialized or short-term work and — deliberately — as prospective long-term partners on a path toward membership. Revenue-share engagement is the Company’s preferred model, because it aligns a Contractor’s stake with the Company’s solvency and treats them from the outset as a collaborator rather than a vendor. As a matter of principle, the Company should ensure that the substantial majority of work on its projects is performed by Members, by candidates, or by Contractors on a genuine path to membership, so that the people doing the work are — or are becoming — the people who own it.
+The Company engages Contractors both for specialized or short-term work and — deliberately — as prospective long-term partners on a path toward membership. Revenue-share engagement is the Company’s preferred model, because it aligns a Contractor’s stake with the Company’s solvency and treats them from the outset as a collaborator rather than a vendor. As a matter of principle, the Company should ensure that the substantial majority of work on its projects is performed by Members, by candidates, or by Contractors and Volunteers on a genuine path to membership, so that the people doing the work are — or are becoming — the people who own it.
 
 ## **3.2 Written Agreements; Forms of Engagement**
 
-Every Contractor is entitled to, and must have, a written, signed Individual Contributor Agreement before beginning work. An ICA compensates the Contractor in one or more of the following forms:
+Every Contractor and every Volunteer is entitled to, and must have, a written, signed Individual Contributor Agreement before beginning work. An ICA engages a contributor in one or more of the following forms:
 
 1.  **Collective Seat** (Section 3.4) — the Contractor joins the Contractor Pool, which shares a single Seat in the Company-wide split;
-2.  **Shared Member Seat** (Section 3.5) — the Contractor is compensated out of a Sponsoring Member’s own share; or
-3.  **Conventional engagement** (Section 3.6) — fixed-fee, hourly, or milestone compensation.
+2.  **Shared Member Seat** (Section 3.5) — the Contractor is compensated out of a Sponsoring Member’s own share;
+3.  **Conventional engagement** (Section 3.6) — fixed-fee, hourly, or milestone compensation; or
+4.  **Volunteer engagement** (Section 3.8) — uncompensated contribution at the contributor’s own initiative.
 
 ## **3.3 Contractor Rights**
 
@@ -216,7 +218,16 @@ A Contractor may instead be engaged at a fixed fee, hourly rate, or per-mileston
 
 ## **3.7 Ownership of Contractor Work**
 
-Every ICA must assign to the Company all intellectual property the Contractor creates for the Company, and must include a present assignment and a “work made for hire” provision to the fullest extent permitted by law. The Company cannot license or protect work it does not own; no project should enter the Work Pool encumbered by a contractor’s retained rights. A Contractor’s separately-listed pre-existing tools and materials remain the Contractor’s, licensed to the Company as the ICA provides.
+Every ICA must assign to the Company all intellectual property the Contractor or Volunteer creates for the Company, and must include a present assignment and a “work made for hire” provision to the fullest extent permitted by law. The Company cannot license or protect work it does not own; no project should enter the Work Pool encumbered by a contributor’s retained rights. A contributor’s separately-listed pre-existing tools and materials remain the contributor’s, licensed to the Company as the ICA provides.
+
+## **3.8 Volunteers**
+
+A Volunteer contributes work at their own initiative and without compensation. The Company’s goal is always to see contributors paid: a volunteer engagement is accepted only where payment is not a viable path — typically because a pre-existing obligation of the Volunteer, such as an employer’s non-compete, moonlighting, or conflict-of-interest restriction, or a similar legal constraint, prevents them from accepting compensation from a company in this industry. Where payment is viable, the Company offers a compensated form under Section 3.2 instead. For volunteer engagements:
+
+1.  **Voluntary and revocable.** Volunteering happens only at the Volunteer’s initiative, is never solicited in place of a compensated engagement, and is never a condition of candidacy or membership (Sections 2.3, 8.5). A Volunteer may stop at any time, without notice and without liability;
+2.  **Documented.** Every Volunteer signs an ICA designating an unpaid volunteer engagement, and recording why payment is not viable, before their work enters any Company project. The protections of Section 3.3 and the IP assignment of Section 3.7 apply to Volunteers as they do to Contractors;
+3.  **No accrual.** A Volunteer has no Threshold, no Seat participation, and no claim on Surplus, and no deferred, retroactive, or contingent compensation accrues from volunteer work (consistent with Section 9.4). Compensation, when it becomes viable, begins prospectively under a new or amended ICA; and
+4.  **A doorway.** Volunteer work counts toward the three-month candidacy request right in Section 3.3 and the Candidacy Period in Section 2.3. When the Volunteer’s constraint lifts, the Members should move them to a compensated engagement or candidacy, consistent with Section 3.1.
 
 # **Article 4 — Termination of Membership**
 
@@ -439,7 +450,7 @@ Notwithstanding the founding-posture provision of the Preamble, this Section app
 
 ## **10.1 Records**
 
-The Company maintains, in secure electronic form, a current list of Members and their contact information; a current list of Contractors, their engagement forms, and Thresholds; its Certificate of Formation and this Agreement with all amendments; its tax returns for the most recent six years; its financial statements for the most recent six fiscal years; and its books and records for at least the current and prior four fiscal years.
+The Company maintains, in secure electronic form, a current list of Members and their contact information; a current list of Contractors and Volunteers, their engagement forms, and any Thresholds; its Certificate of Formation and this Agreement with all amendments; its tax returns for the most recent six years; its financial statements for the most recent six fiscal years; and its books and records for at least the current and prior four fiscal years.
 
 ## **10.2 Member Access**
 
