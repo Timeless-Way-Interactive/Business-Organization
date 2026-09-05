@@ -29,6 +29,7 @@ The Company grants the Member a **worldwide, perpetual, irrevocable, royalty-fre
 1.  During the Membership Period, this License refreshes continuously: it always covers the Company IP as it then exists, including work created after this License is signed.
 2.  On the Snapshot Date, the scope of this License fixes: it covers everything that existed at any time during the Membership Period, and nothing created after.
 3.  On the Member’s written request at or after departure, the Secretary of the Company shall issue, within thirty (30) days, a written schedule identifying the Company IP existing as of the Snapshot Date (including repository identifiers and project names), for attachment to this License as Schedule A. Failure to issue or attach Schedule A does not narrow the License.
+4.  **Delivery of the files.** On the same request and within the same thirty (30) days, the Company shall deliver to the Member, at the Company’s own expense, a complete copy of the Licensed IP in the form the Company keeps it — repositories, project files, and source assets — together with the manifest required by Section 10.1 of the Operating Agreement identifying the third-party components inside it and the terms on which each is held. This obligation is the practical half of the grant in Section 2: a perpetual license to work the Member cannot obtain is not a license, and the Company may not satisfy this Section by delivering Schedule A alone.
 
 ## **4. Ownership; Derivative Works**
 
@@ -38,22 +39,18 @@ The Company grants the Member a **worldwide, perpetual, irrevocable, royalty-fre
 ## **5. Exclusions**
 
 1.  **Trademarks.** This License does not cover the Company’s trademarks, trade names, or logos, except for truthful, non-confusing attribution (for example, “originally developed at Timeless Way Interactive”). The Member will not present their independent work as made, endorsed, or published by the Company.
-2.  **Third-party materials.** Materials embedded in Company IP under license from third parties (engines, middleware, licensed assets, fonts) are covered only to the extent the Company’s own rights permit. Clearing third-party rights for the Member’s independent use is the Member’s responsibility.
-3.  **Personal data.** Player and community personal data is not licensed.
+2.  **Third-party materials.** Materials embedded in Company IP under license from third parties (engines, middleware, licensed assets, fonts) are covered only to the extent the Company’s own rights permit. Clearing third-party rights for the Member’s independent use is the Member’s responsibility. The Company shall identify those materials in the manifest delivered under Section 3, so the Member knows at the outset which parts of the work they must clear and which are theirs to use freely.
+3.  **Personal data.** Personal data of players, community members, contributors, and Members — and the credentials and keys that protect it — is not licensed and never was the Company’s to license. Information a third party gave the Company in confidence is likewise outside this License for as long as the Company’s own obligation runs. Nothing else is withheld: this License carries no duty of secrecy toward the Company, and the Member may show, discuss, and publish the Licensed IP (Section 7.6 of the Operating Agreement).
 
 ## **6. Personal to the Member**
 
 1.  This License is personal to the Member. The Member may not assign, transfer, pledge, or sublicense this License itself. Distributing, selling, or licensing products the Member creates under this License is exploitation of the License, not a transfer of it, and is permitted.
 2.  The Member may exercise this License through an entity the Member controls (for example, a personal studio LLC), provided the Member retains control of that entity; the License does not survive a sale of that entity’s underlying rights to a third party.
-3.  On the Member’s death, this License does not pass to the Member’s estate, except that the estate may continue to exploit any then-existing project the Member had lawfully built under this License, consistent with Section 4.2 of the Operating Agreement.
+3.  On the Member’s death, this License does not pass to the Member’s estate, except that the estate may continue to exploit — including finish, maintain, update, and distribute — any then-existing project the Member had lawfully built under this License, consistent with Section 4.2 of the Operating Agreement.
 
 ## **7. Non-Exclusivity; Later Company Licenses**
 
 This License is non-exclusive. The Company remains free to use the Licensed IP and to license it to others, including exclusive licenses to publishers and partners — but any such later grant is subject to this License and to every other Member’s outstanding license, and the Company shall so disclose to the counterparty.
-
-|  |
-| :-: |
-| \*\*DRAFTING NOTE — tell publishers early\*\*A publisher negotiating an “exclusive” license will discover in diligence that every current and former Member holds a perpetual, irrevocable license to the same IP. That is by design — it is the cooperative’s core bargain — but it must be disclosed early, priced into the deal, and drafted around (for example, exclusivity as against everyone except Members exercising personal licenses). Raise it in the first conversation, not the last. |
 
 ## **8. Irrevocability and Survival**
 
@@ -61,7 +58,7 @@ This License is irrevocable and survives the termination of the Member’s Membe
 
 ## **9. No Warranty; No Support**
 
-The Licensed IP is provided “as is.” The Company makes no warranty of any kind — including non-infringement, merchantability, or fitness for a particular purpose — and has no obligation to maintain, support, update, or deliver any particular form of the Licensed IP, beyond the Schedule A obligation in Section 3.
+The Licensed IP is provided “as is.” The Company makes no warranty of any kind — including non-infringement, merchantability, or fitness for a particular purpose — and has no obligation to maintain, support, update, or deliver any particular form of the Licensed IP, beyond the Schedule A and delivery obligations in Section 3, which this Section does not limit.
 
 ## **10. General**
 
