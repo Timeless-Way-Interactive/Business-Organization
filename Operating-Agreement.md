@@ -426,7 +426,7 @@ The Company’s Fiscal Year is defined in Section 8.1.2: January 1 through Decem
 
 ## **8.3 Seats; Equal Allocation of Surplus and Loss**
 
-**The reserve is a fixed percentage, and only unanimity moves it.** For each Fiscal Year the Company retains the Reserve Percentage of Surplus to the Collective Account before anything is distributed — a solvency discipline, per the Preamble. The Reserve Percentage is **twenty percent (20%)** unless the Members set a different figure, and it may be set or changed only by the unanimous written consent of every Member: never by Supermajority, and never by the Committee deciding year to year. A change takes effect for the Fiscal Year in which it is adopted and those after it, never retroactively.
+**The reserve is a fixed percentage, and only unanimity moves it.** For each Fiscal Year the Company retains the Reserve Percentage of Surplus to the Collective Account before anything is distributed — a solvency discipline, per the Preamble. The Reserve Percentage is **ten percent (10%)** unless the Members set a different figure, and it may be set or changed only by the unanimous written consent of every Member: never by Supermajority, and never by the Committee deciding year to year. A change takes effect for the Fiscal Year in which it is adopted and those after it, never retroactively.
 
 This is deliberate. A discretionary reserve is a lever — whoever controls it controls whether anyone is paid at all, including the Contractor Pool, without ever having to break a rule. A fixed percentage that takes everyone’s agreement to move is a number every Member and every contributor can rely on and compute against. It may not be set at a level that would defeat the mandatory minimum cash distributions under Section 8.4 or the Contractor Pool’s payment under Section 8.6.
 
@@ -487,7 +487,7 @@ The Treasurer monitors the Company’s financial health and informs the Members 
 
 ## **9.2 Work Hours; Part-Time and Furloughed Members**
 
-Members may work as much or as little as they choose. The Committee may adopt a minimum-participation policy only by unanimous written consent, and a Member who falls below it becomes part-time or furloughed under this Section — never expelled for that reason, and never subject to a reduced Seat Share except as Section 8.3 permits. Where the Company cannot fund full participation for everyone, a Member may become part-time or furloughed. A part-time or furloughed Member keeps full voting rights but accrues a reduced economic allocation (part-time) or no new allocation (furlough) for the affected period, consistent with the pro-rating in Section 8.3.
+Members may work as much or as little as they choose within reason. The Committee may adopt a minimum-participation policy only by unanimous written consent, and a Member who falls below it becomes part-time or furloughed under this Section — never expelled for that reason, and never subject to a reduced Seat Share except as Section 8.3 permits. Where the Company cannot fund full participation for everyone, a Member may become part-time or furloughed. A part-time or furloughed Member keeps full voting rights but accrues a reduced economic allocation (part-time) or no new allocation (furlough) for the affected period, consistent with the pro-rating in Section 8.3.
 
 ## **9.3 Financial Distress: Slowdown, Not Dissolution**
 
