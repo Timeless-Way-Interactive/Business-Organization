@@ -155,8 +155,8 @@ In this Agreement, the following terms have the meanings given below. Other defi
 14. **“Sponsoring Member”** means a Member who engages a Contractor under a Shared Member Seat Arrangement.
 15. **“Statement of Business Practices”** means the non-binding Exhibit A to this Agreement.
 16. **“Supermajority”** means at least two-thirds (2/3) of all Members then in office, rounded up to the next whole Member (so two of three, three of four, four of five).
-17. **“Threshold”** means, for a given Contractor, the rate at which that Contractor earns compensation for a stated period, and the maximum payable to them for that period, as defined in that Contractor’s ICA.
-18. **“Unpaid Balance”** means, for a given Contractor, the sum of the amounts that Contractor has earned under their ICA less the amounts they have actually been paid, as defined in Section 3.4. An Unpaid Balance does not expire and survives the end of the Contractor’s engagement.
+17. **“Threshold”** means, for a given Contractor, the rate at which that Contractor earns compensation for a stated period, as defined in that Contractor’s ICA. A Threshold sets what a Contractor earns, not the most they may receive in any one distribution; the ceiling on a distribution is the Contractor’s Unpaid Balance (Sections 3.4 and 3.5).
+18. **“Unpaid Balance”** means, for a given Contractor, the sum of the amounts that Contractor has earned under their ICA less the amounts they have actually been paid, as defined in Sections 3.4 and 3.5. An Unpaid Balance does not expire and survives the end of the Contractor’s engagement.
 19. **“Volunteer”** means a person who, at their own initiative and without compensation, contributes work to the Company under Section 3.8. A Volunteer is a class of contributor distinct from both Members and Contractors.
 20. **“Work Pool”** means the set of projects and creative works owned by the Company, as described in Section 7.2.
 21. **“Surplus,” “Loss,” “Distribution,”** and other financial terms have the meanings given in Section 8.1.
@@ -186,7 +186,7 @@ There is no buy-in or capital contribution required to become a Member. Consiste
 
 **Nobody stays a contractor forever.** A contributor may not keep working for the Company beyond six (6) months until being admitted as a Member. If the Committee does not admit them by the end of the sixth month, the engagement ends and the ICA terminates. The single exception is where the contributor has themselves declined membership in writing: there, the Members may authorize the engagement to continue by Supermajority, in renewable terms of no more than six (6) months each, recording the reason in the minutes every time. Every motion to renew states how many contributors are then working under a renewal, so the Members see the bench they are building rather than one name at a time. That door exists for the composer who wants one credit and no company, and only the contributor can open it. It is not a route back to a permanent class of non-owner labor.
 
-An engagement that ends this way ends the work and nothing else. The contributor’s Unpaid Balance survives in full and keeps being paid until it reaches zero (Section 3.4), their credit under Section 3.3 stands, and nothing prevents a later engagement or a later admission.
+An engagement that ends this way ends the work and nothing else. The contributor’s Unpaid Balance survives in full and keeps being paid until it reaches zero (Sections 3.4 and 3.5), their credit under Section 3.3 stands, and nothing prevents a later engagement or a later admission.
 
 Upon admission, a new Member immediately receives the perpetual license to Company IP described in Section 7.3, and the Company and the new Member execute the standalone license instrument in the form of Exhibit C.
 
@@ -215,7 +215,7 @@ Every Contractor and every Volunteer is entitled to, and must have, a written, s
 
 A Contractor is entitled to a credit on any released project to which they contributed. Every Contractor and Volunteer enters the Candidacy Period automatically on their first day of work and is voted on before the end of their sixth month, under Section 2.3 — there is nothing to request and nothing to be denied, and no one works here as a non-owner past six months except by their own written election. Contractor Thresholds, Unpaid Balances, and compensation terms are visible to all Members on the same footing as Member pay under Section 6.3. Nothing in any ICA may restrict a Contractor from discussing their compensation or working conditions.
 
-**Contributors may rely on these terms.** Sections 3.3, 3.4, 3.5, 5.7, 8.6, and 9.4 are made for the benefit of the Contractors and Volunteers they describe, and each of them may enforce those Sections directly against the Company. On request, a Contractor in the Pool is entitled to the number of Contractors then in the Pool, the total of all Unpaid Balances, and the calculation of any distribution affecting them — the same visibility Members have under Section 6.3, into the money that is theirs. No amendment to this Agreement reduces an Unpaid Balance already accrued or changes how it is paid; the terms in effect when an amount accrued continue to govern it.
+**Contributors may rely on these terms.** Sections 3.3, 3.4, 3.5, 5.7, 8.6, and 9.4 are made for the benefit of the Contractors and Volunteers they describe, and each of them may enforce those Sections directly against the Company. On request, a Contractor in the Pool is entitled to the number of Contractors then in the Pool, the total of all Unpaid Balances, and the calculation of any distribution affecting them — the same visibility Members have under Section 6.3, into the money that is theirs. A Contractor sponsored under Section 3.5 is entitled to the same, as to the Contractors sharing in their Sponsoring Member’s Seat and the Balances those Contractors hold. No amendment to this Agreement reduces an Unpaid Balance already accrued or changes how it is paid; the terms in effect when an amount accrued continue to govern it.
 
 ## **3.4 The Collective Seat**
 
@@ -238,9 +238,13 @@ A Contractor is entitled to a credit on any released project to which they contr
 **Mechanics.** Under a Shared Member Seat Arrangement:
 
 1.  Each time the Company makes a distribution with respect to Seats, the Sponsoring Member’s Seat share is divided equally among the Sponsoring Member and each Contractor they then sponsor under this Section, unless the ICA specifies a different split;
-2.  No sponsored Contractor receives more than their Threshold for the applicable period; amounts above a Contractor’s Threshold revert to the Sponsoring Member;
+2.  No sponsored Contractor receives more than their Unpaid Balance. Any amount that would exceed a sponsored Contractor’s Unpaid Balance is instead re-divided equally among the Sponsoring Member’s other sponsored Contractors whose Unpaid Balances are not yet paid to zero, repeating until every such Balance is paid or the share is exhausted; any remainder reverts to the Sponsoring Member;
 3.  The Company acts as paying agent, paying the Contractor’s portion directly to the Contractor and the balance to the Sponsoring Member; and
-4.  The Company’s obligation to a sponsored Contractor is limited to amounts otherwise distributable to the Sponsoring Member. If the Sponsoring Member’s share is insufficient — or there is no distribution — the Contractor has no claim against the Company or any other Member, though the Sponsoring Member may supplement payment from personal funds if their ICA so provides.
+4.  The Company’s obligation to a sponsored Contractor is limited to amounts otherwise distributable to the Sponsoring Member. If the Sponsoring Member’s share is insufficient — or there is no distribution — the Contractor has no claim against the Company or any other Member, though the Sponsoring Member may supplement payment from personal funds if their ICA so provides. This clause is subject to Section 8.7, clause 8, which settles unpaid Balances out of the Sponsoring Member’s Account when their Membership ends.
+
+**Accrual and character of payments.** A sponsored Contractor earns at their Threshold for each period their ICA is in effect, whether or not any distribution is made, and holds an Unpaid Balance on the same terms as a Pool Contractor under Section 3.4: it carries forward, does not expire, survives the end of the engagement, and survives admission as a Member. A sponsored Contractor whose engagement has ended continues to share in the Sponsoring Member’s Seat distributions under this Section until their Unpaid Balance is paid to zero. Amounts paid under this Section are compensation for services, not distributions of profit and not any form of equity, and confer no Membership, governance vote, or ownership. An Unpaid Balance under this Section is a standing claim on future distributions to the Sponsoring Member’s Seat only — never a debt of the Company, of the Contractor Pool, or of any other Member.
+
+**The same bargain, a different source.** Sections 3.4 and 3.5 differ in one respect and one only: where the money comes from. A Pool Contractor is paid out of the Collective Seat, a sponsored Contractor out of the Sponsoring Member’s own Seat. What is earned, how it accrues, that it does not expire, and that it survives both the engagement and admission as a Member are the same under both. Neither form is the lesser deal, and a contributor moved from one to the other carries their Unpaid Balance with them.
 
 ## **3.6 Conventional Engagements**
 
@@ -466,10 +470,11 @@ When a Member’s Membership terminates for any reason, including death, the bal
 1.  the debt is paid within three (3) years of termination;
 2.  no interest accrues for the first six (6) months; thereafter interest accrues at a modest reference rate set by the Committee (for example, the applicable federal short-term rate) on the unpaid balance;
 3.  the Company may extend payment beyond three (3) years only to the extent the Treasurer determines, and the Committee confirms, that paying on schedule would threaten the Company’s solvency;
-4.  on expulsion for bad-faith or unlawful conduct, the Committee may reduce or cancel the balance under Section 4.3; and
+4.  on expulsion for bad-faith or unlawful conduct, the Committee may reduce or cancel the balance under Section 4.3;
 5.  the Company may offset against the balance any amount the former Member owes the Company;
 6.  the debt is unsecured and is not a claim against Company IP. No former Member may seek or obtain a lien, security interest, or execution against Company IP to satisfy it, and any purported grant or attachment of such an interest is void (Section 9.4). The Work Pool is not collateral for anyone, including the people who built it; and
-7.  no interest accrues during any period of dormancy under Section 9.3, and a deferral properly made under clause 3 is not a default.
+7.  no interest accrues during any period of dormancy under Section 9.3, and a deferral properly made under clause 3 is not a default; and
+8.  where the former Member sponsored one or more Contractors under Section 3.5, the Unpaid Balance each of those Contractors held on the date of termination is paid out of the balance in that Member’s Account, in full and before any payment to the former Member under clauses 1 through 3, and pro rata among those Contractors if the Account balance is not enough for all of them. Any reduction under clause 4 and any offset under clause 5 reach only what remains after this clause is satisfied. Sponsorship is the Sponsoring Member’s own commitment, and it is settled out of the Sponsoring Member’s own money before that money is returned to them.
 
 ## **8.8 Member Compensation Comes Only from Seats**
 
@@ -538,7 +543,7 @@ On dissolution, the Company’s activities are limited to winding up: collecting
 
 ## **11.3 Distribution of Assets**
 
-Liquidation proceeds are applied: first, to creditors in the order the law requires (other than for distributions); second, and pro rata if what remains is not enough for all of them, to pay Unpaid Balances under Section 3.4, the balances owed on Member Accounts, and amounts owed to former Members under Section 8.7 — the people who did the work rank together, and Contractors are not made to wait behind Members; and third, any remainder is distributed to the Members equally, or, if the Members so choose by Supermajority at dissolution, donated to one or more organizations the Members approve.
+Liquidation proceeds are applied: first, to creditors in the order the law requires (other than for distributions); second, and pro rata if what remains is not enough for all of them, to pay Unpaid Balances under Sections 3.4 and 3.5, the balances owed on Member Accounts, and amounts owed to former Members under Section 8.7 — the people who did the work rank together, and Contractors are not made to wait behind Members; and third, any remainder is distributed to the Members equally, or, if the Members so choose by Supermajority at dissolution, donated to one or more organizations the Members approve.
 
 ## **11.4 Disposition of Company IP on Dissolution**
 
