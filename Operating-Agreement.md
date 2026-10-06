@@ -14,7 +14,7 @@ Organized as a Worker-Owned Cooperative
 
 Effective Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**REVISED DRAFT 2 — FOR REVIEW; NOT YET EXECUTED**
+**REVISED DRAFT 3 — PROPOSED REVISION: CAPITAL ADVANCES — FOR REVIEW; NOT YET EXECUTED**
 
 # **Table of Contents**
 
@@ -33,6 +33,14 @@ Article 3 — Contractors and Non-Member Labor
     3.4 The Collective Seat · 3.5 Shared Member Seat Arrangements · 3.6 Conventional Engagements
 
     3.7 Ownership of Contractor Work · 3.8 Volunteers
+
+Article 3A — Capital Advances and the Capital Seat
+
+    3A.1 Purpose and Posture · 3A.2 The Advance Is a Contract · 3A.3 One Seat, However Many Advancers
+
+    3A.4 Distribution Within the Capital Pool · 3A.5 No Interest; At Risk; Not a Debt · 3A.6 Priority
+
+    3A.7 Stacking of Claims
 
 Article 4 — Termination of Membership
 
@@ -82,7 +90,7 @@ Exhibit C — Form of Member Perpetual IP License (separate document)
 
 This Operating Agreement (this “Agreement”) governs Timeless Way Interactive, LLC, a Texas limited liability company (the “Company” or the “Cooperative”), and the relationship among its Members. The Company is formed to develop, publish, and sustain video games and related creative works, and to do so as a democratically governed, worker-owned enterprise in which the people who do the work own the work and govern themselves as equals.
 
-**Founding posture.** As of the Effective Date the Company has a single Member (the “Founding Member”). While the Company has only one Member, it operates as a single-member LLC and the cooperative governance and economic provisions of Articles 4 through 9 are dormant — except Section 9.4 (no Company debt; no encumbrance of Company IP), which applies from the Effective Date at all times. The dormant provisions activate automatically upon the admission of the second Member, at which point the Company becomes a multi-member, worker-owned cooperative governed by the full terms below. While the Company has a single Member, every decision this Agreement reserves to the Committee, to a Majority, or to a Supermajority — including admitting the second Member under Section 2.3, establishing the Collective Seat, and admitting a Contractor to the Contractor Pool under Section 3.4 — is made by the Founding Member in writing and kept with the Company’s records. If the Company later returns to a single Member, the same rule applies until another Member is admitted.
+**Founding posture.** As of the Effective Date the Company has a single Member (the “Founding Member”). While the Company has only one Member, it operates as a single-member LLC and the cooperative governance and economic provisions of Articles 4 through 9 are dormant — except Section 9.4 (no Company debt; no encumbrance of Company IP), which applies from the Effective Date at all times. The dormant provisions activate automatically upon the admission of the second Member, at which point the Company becomes a multi-member, worker-owned cooperative governed by the full terms below. While the Company has a single Member, every decision this Agreement reserves to the Committee, to a Majority, or to a Supermajority — including admitting the second Member under Section 2.3, establishing the Collective Seat, admitting a Contractor to the Contractor Pool under Section 3.4, and accepting a Capital Advance under Article 3A — is made by the Founding Member in writing and kept with the Company’s records. If the Company later returns to a single Member, the same rule applies until another Member is admitted.
 
 ## **Our Mission**
 
@@ -128,6 +136,8 @@ The Company holds seven values, in no order of priority. They are stated here be
 | Putting one of your own projects into the Work Pool | **You offer; the Committee accepts** (7.2) |
 | Starting someone’s candidacy | **Nobody — it begins by itself on day one** (2.3) |
 | Admitting a Member, a Pool Contractor, or a paid conventional contractor | **Supermajority** (2.3, 3.4, 3.6) |
+| Accepting a Capital Advance into the Capital Pool | **Supermajority** (3A.2) |
+| Charging interest on a Capital Advance | **No one. Ever.** Unanimity to change the rule (3A.5, 13.1) |
 | Setting or changing the reserve percentage | **Unanimous written consent** (8.3) |
 | Confirming the annual distribution | **Committee** (8.3) |
 | Publishing, licensing, or financing deals that bind the Company | **Supermajority** (5.3) |
@@ -140,26 +150,30 @@ The Company holds seven values, in no order of priority. They are stated here be
 In this Agreement, the following terms have the meanings given below. Other defined terms appear in the Articles in which they are used.
 
 1.  **“Act”** means the Texas Business Organizations Code, as amended.
-2.  **“Collective Seat”** means the single Seat that the Contractor Pool may collectively occupy under Section 3.4. The Collective Seat carries economic participation only; it carries no governance vote.
-3.  **“Committee”** means the assembly of all Members, in which each Member holds one (1) seat and one (1) vote. The Committee is the governing body of the Company, convened and exercised as described in Article 5 — that is, chiefly as a contingency.
-4.  **“Company IP”** means all intellectual property owned by the Company, including the Work Pool and all copyrights, trademarks, and other rights in it, as described in Article 7.
-5.  **“Contractor”** means a person engaged to perform work for the Company for compensation under Article 3 who is not a Member. A Volunteer is not a Contractor, though both are classes of contributor engaged under Article 3.
-6.  **“Contractor Pool”** means the group of Contractors admitted to the Collective Seat under Section 3.4, together with any former Contractor who still holds an Unpaid Balance under Section 3.4.
-7.  **“Individual Contributor Agreement” or “ICA”** means a written agreement with a Contractor or Volunteer substantially in the form of Exhibit B, as maintained and updated by the Secretary.
-8.  **“Majority”** means more than fifty percent (50%) of all Members then in office.
-9.  **“Member”** means a natural person admitted to membership under Article 2 and not since terminated. Every Member is a worker-owner. The Company has a single class of Members.
-10. **“Membership”** means the rights and obligations of a Member under this Agreement, the Certificate of Formation, and the Act.
-11. **“Member Account”** means the capital account maintained for each Member under Article 8.
-12. **“Seat”** means a unit of participation in the equal division of the Company’s distributable surplus under Section 8.3. Each Member holds one (1) Seat. If the Collective Seat is established, the Contractor Pool holds one (1) additional Seat collectively. Governance votes belong only to Members; the Collective Seat never votes.
-13. **“Shared Member Seat Arrangement”** means an arrangement under Section 3.5 in which a Contractor is compensated out of a Sponsoring Member’s own share.
-14. **“Sponsoring Member”** means a Member who engages a Contractor under a Shared Member Seat Arrangement.
-15. **“Statement of Business Practices”** means the non-binding Exhibit A to this Agreement.
-16. **“Supermajority”** means at least two-thirds (2/3) of all Members then in office, rounded up to the next whole Member (so two of three, three of four, four of five).
-17. **“Threshold”** means, for a given Contractor, the rate at which that Contractor earns compensation for a stated period, as defined in that Contractor’s ICA. A Threshold sets what a Contractor earns, not the most they may receive in any one distribution; the ceiling on a distribution is the Contractor’s Unpaid Balance (Sections 3.4 and 3.5).
-18. **“Unpaid Balance”** means, for a given Contractor, the sum of the amounts that Contractor has earned under their ICA less the amounts they have actually been paid, as defined in Sections 3.4 and 3.5. An Unpaid Balance does not expire and survives the end of the Contractor’s engagement.
-19. **“Volunteer”** means a person who, at their own initiative and without compensation, contributes work to the Company under Section 3.8. A Volunteer is a class of contributor distinct from both Members and Contractors.
-20. **“Work Pool”** means the set of projects and creative works owned by the Company, as described in Section 7.2.
-21. **“Surplus,” “Loss,” “Distribution,”** and other financial terms have the meanings given in Section 8.1.
+2.  **“Capital Advance”** means cash a person contributes to the Company under Article 3A to fund its solvency and operations, giving rise to a claim against Company revenue for the return of the principal advanced and nothing more. A Capital Advance bears no interest.
+3.  **“Capital Advancer”** means a person who has made a Capital Advance and still holds an Unpaid Balance in respect of it. A Capital Advancer may also be a Member, a Contractor, or both; the claims are independent (Section 3A.7).
+4.  **“Capital Pool”** means the group of Capital Advancers whose Capital Advances were accepted under Section 3A.2.
+5.  **“Capital Seat”** means the single Seat that the Capital Pool collectively occupies under Article 3A while any Capital Advance remains unrepaid. The Capital Seat carries economic participation only; it carries no governance vote.
+6.  **“Collective Seat”** means the single Seat that the Contractor Pool may collectively occupy under Section 3.4. The Collective Seat carries economic participation only; it carries no governance vote.
+7.  **“Committee”** means the assembly of all Members, in which each Member holds one (1) seat and one (1) vote. The Committee is the governing body of the Company, convened and exercised as described in Article 5 — that is, chiefly as a contingency.
+8.  **“Company IP”** means all intellectual property owned by the Company, including the Work Pool and all copyrights, trademarks, and other rights in it, as described in Article 7.
+9.  **“Contractor”** means a person engaged to perform work for the Company for compensation under Article 3 who is not a Member. A Volunteer is not a Contractor, though both are classes of contributor engaged under Article 3.
+10. **“Contractor Pool”** means the group of Contractors admitted to the Collective Seat under Section 3.4, together with any former Contractor who still holds an Unpaid Balance under Section 3.4.
+11. **“Individual Contributor Agreement” or “ICA”** means a written agreement with a Contractor or Volunteer substantially in the form of Exhibit B, as maintained and updated by the Secretary.
+12. **“Majority”** means more than fifty percent (50%) of all Members then in office.
+13. **“Member”** means a natural person admitted to membership under Article 2 and not since terminated. Every Member is a worker-owner. The Company has a single class of Members.
+14. **“Membership”** means the rights and obligations of a Member under this Agreement, the Certificate of Formation, and the Act.
+15. **“Member Account”** means the capital account maintained for each Member under Article 8.
+16. **“Seat”** means a unit of participation in the equal division of the Distributable Amount under Section 8.3. Each Member holds one (1) Seat. If the Collective Seat is established, the Contractor Pool holds one (1) additional Seat collectively. While any Capital Advance remains unrepaid, the Capital Pool holds one (1) additional Seat collectively. Governance votes belong only to Members; neither the Collective Seat nor the Capital Seat ever votes.
+17. **“Shared Member Seat Arrangement”** means an arrangement under Section 3.5 in which a Contractor is compensated out of a Sponsoring Member’s own share.
+18. **“Sponsoring Member”** means a Member who engages a Contractor under a Shared Member Seat Arrangement.
+19. **“Statement of Business Practices”** means the non-binding Exhibit A to this Agreement.
+20. **“Supermajority”** means at least two-thirds (2/3) of all Members then in office, rounded up to the next whole Member (so two of three, three of four, four of five).
+21. **“Threshold”** means, for a given Contractor, the rate at which that Contractor earns compensation for a stated period, as defined in that Contractor’s ICA. A Threshold sets what a Contractor earns, not the most they may receive in any one distribution; the ceiling on a distribution is the Contractor’s Unpaid Balance (Sections 3.4 and 3.5). A Capital Advancer’s Threshold is fixed at the principal advanced. A Member Seat has no Threshold.
+22. **“Unpaid Balance”** means, for a given Contractor, the sum of the amounts that Contractor has earned under their ICA less the amounts they have actually been paid, as defined in Sections 3.4 and 3.5; and, for a given Capital Advancer, the principal advanced less the amounts actually repaid, as defined in Section 3A.4. An Unpaid Balance bears no interest, does not expire, and survives the end of the Contractor’s engagement or the Capital Advancer’s other relationships with the Company.
+23. **“Volunteer”** means a person who, at their own initiative and without compensation, contributes work to the Company under Section 3.8. A Volunteer is a class of contributor distinct from both Members and Contractors.
+24. **“Work Pool”** means the set of projects and creative works owned by the Company, as described in Section 7.2.
+25. **“Surplus,” “Loss,” “Distribution,”** and other financial terms have the meanings given in Section 8.1.
 
 # **Article 2 — Formation and Membership**
 
@@ -215,7 +229,7 @@ Every Contractor and every Volunteer is entitled to, and must have, a written, s
 
 A Contractor is entitled to a credit on any released project to which they contributed. Every Contractor and Volunteer enters the Candidacy Period automatically on their first day of work and is voted on before the end of their sixth month, under Section 2.3 — there is nothing to request and nothing to be denied, and no one works here as a non-owner past six months except by their own written election. Contractor Thresholds, Unpaid Balances, and compensation terms are visible to all Members on the same footing as Member pay under Section 6.3. Nothing in any ICA may restrict a Contractor from discussing their compensation or working conditions.
 
-**Contributors may rely on these terms.** Sections 3.3, 3.4, 3.5, 5.7, 8.6, and 9.4 are made for the benefit of the Contractors and Volunteers they describe, and each of them may enforce those Sections directly against the Company. On request, a Contractor in the Pool is entitled to the number of Contractors then in the Pool, the total of all Unpaid Balances, and the calculation of any distribution affecting them — the same visibility Members have under Section 6.3, into the money that is theirs. A Contractor sponsored under Section 3.5 is entitled to the same, as to the Contractors sharing in their Sponsoring Member’s Seat and the Balances those Contractors hold. No amendment to this Agreement reduces an Unpaid Balance already accrued or changes how it is paid; the terms in effect when an amount accrued continue to govern it.
+**Contributors may rely on these terms.** Sections 3.3, 3.4, 3.5, 5.7, 8.6, and 9.4 are made for the benefit of the Contractors and Volunteers they describe, and Article 3A and Section 8.6 for the benefit of Capital Advancers, and each of them may enforce those Sections directly against the Company. On request, a Contractor in the Pool is entitled to the number of Contractors then in the Pool, the total of all Unpaid Balances, and the calculation of any distribution affecting them — the same visibility Members have under Section 6.3, into the money that is theirs. A Contractor sponsored under Section 3.5 is entitled to the same, as to the Contractors sharing in their Sponsoring Member’s Seat and the Balances those Contractors hold. No amendment to this Agreement reduces an Unpaid Balance already accrued or changes how it is paid; the terms in effect when an amount accrued continue to govern it.
 
 ## **3.4 The Collective Seat**
 
@@ -264,6 +278,42 @@ A Volunteer contributes work at their own initiative and without compensation. A
 2.  **Documented.** Every Volunteer signs an ICA designating an unpaid volunteer engagement, and recording why payment is not viable, before their work enters any Company project. The protections of Section 3.3 and the IP assignment of Section 3.7 apply to Volunteers as they do to Contractors;
 3.  **No accrual.** A Volunteer has no Threshold, no Seat participation, and no claim on Surplus, and no deferred, retroactive, or contingent compensation accrues from volunteer work (consistent with Section 9.4). Compensation, when it becomes viable, begins prospectively under a new or amended ICA; and
 4.  **A doorway, on the same clock as everyone else.** A Volunteer enters the Candidacy Period on their first day and is voted on before the end of their sixth month, exactly as a Contractor is (Sections 2.3, 3.3). Volunteering is not a longer path or a lesser one. When the Volunteer’s constraint lifts, the Members move them to a compensated engagement, consistent with Section 3.1.
+
+# **Article 3A — Capital Advances and the Capital Seat**
+
+## **3A.1 Purpose and Posture**
+
+The Company does not borrow (Section 9.4). Its solvency is maintained, to the extent the people working here choose to maintain it, by voluntary Capital Advances from Members and others who want to see the Company through a lean period, fund a tool, or carry a launch. A Capital Advance is neither a loan nor equity: it is a claim against Company revenue for the return of principal only, with no interest and no return on capital of any kind. This follows directly from the Company’s Politics value. Income from the mere ownership of capital is exactly what this Company exists to abolish, and it is not reintroduced through a Member’s own cheque. The reward for an advance is that the Company the advancer works in, or believes in, survives.
+
+## **3A.2 The Advance Is a Contract, Like an ICA**
+
+A Capital Advance is documented in a written, signed Capital Advance Agreement, maintained by the Secretary in a standard form on the same footing as an Individual Contributor Agreement. The agreement states the principal advanced; confirms that no interest accrues; confirms that repayment is solely a claim against future Capital Seat distributions; and confirms that the advance is at risk — if revenue never comes, the advance is not repaid and the Company owes nothing further.
+
+Accepting a Capital Advance is a reserved matter decided by Supermajority under Section 5.3, for the same reason as admitting a Contractor to the Contractor Pool under Section 3.4: the first outstanding advance establishes the Capital Seat, and the Capital Seat dilutes every Member’s share. No Member may bind the Company to accept an advance alone.
+
+## **3A.3 One Seat, However Many Advancers**
+
+While any Capital Advance remains unrepaid, the Capital Pool as a whole occupies one (1) Seat in the division of the Distributable Amount under Section 8.3, regardless of how many Capital Advancers there are. The Capital Seat participates economically only; it carries no governance vote and confers no Membership. When every Capital Advancer’s Unpaid Balance has been repaid to zero, the Capital Seat lapses until another advance is accepted.
+
+## **3A.4 Distribution Within the Capital Pool**
+
+Each time the Company makes a distribution with respect to Seats, the Capital Seat’s share is divided as follows:
+
+1.  The share is divided equally among all Capital Advancers then holding an Unpaid Balance;
+2.  No Capital Advancer receives more than their Unpaid Balance — the principal advanced less the amounts already repaid. Any amount that would exceed an Advancer’s Unpaid Balance is instead re-divided equally among the Capital Advancers whose Unpaid Balances are not yet repaid to zero, repeating until every Balance is repaid or the share is exhausted; and
+3.  Any remainder after every Capital Advancer’s Unpaid Balance is repaid to zero is divided equally among the Member Seats for the same period.
+
+## **3A.5 No Interest; At Risk; Not a Debt**
+
+A Capital Advance bears no interest and confers no return beyond the repayment of principal. Repayment is contingent on the Company having a Distributable Amount: if there is no distribution in a period, nothing is payable to the Capital Pool for that period, and the principal simply remains in the Advancer’s Unpaid Balance, carried forward without expiry. A Capital Advance is a standing claim on future Capital Seat distributions only — never a debt of the Company, never a claim against Company IP, and never a claim against any Member or any other claimant. Because it is payable only out of revenue that actually arrives, it cannot cascade, and it is not borrowing under Section 9.4.
+
+## **3A.6 Priority — At Risk, Never Senior**
+
+The Capital Seat is paid pari passu with the mandatory minimum cash distributions to Members and with the Contractor Pool under Section 8.6. It is never senior to the people doing the work, so that funding the Company never becomes a lever over it.
+
+## **3A.7 Stacking of Claims**
+
+A single person may at the same time hold a Member Seat, a share in the Contractor Pool’s Collective Seat, and a share in the Capital Pool’s Capital Seat. The three claims are independent, computed separately, and do not offset one another. A Capital Advance is not a capital contribution under Section 8.5, is never credited to a Member Account, and is never a condition of candidacy or membership (Sections 2.3, 8.5).
 
 # **Article 4 — Termination of Membership**
 
@@ -314,7 +364,7 @@ Only the following are Committee matters. Everything not listed here is an indiv
 2.  Amending this Agreement (Section 13.1) or adopting policy that binds all Members;
 3.  Accepting a project into the Work Pool (Section 7.2);
 4.  Selling Company IP or granting an exclusive license to it;
-5.  Establishing the Collective Seat and admitting Contractors to the Contractor Pool (Section 3.4), and entering any conventional engagement (Section 3.6);
+5.  Establishing the Collective Seat and admitting Contractors to the Contractor Pool (Section 3.4), entering any conventional engagement (Section 3.6), and accepting a Capital Advance (Section 3A.2);
 6.  Entering publishing, licensing, or financing arrangements that bind the Company as a whole — subject in every case to Section 9.4, which prohibits borrowing and any encumbrance of Company IP;
 7.  Confirming the annual distribution (Article 8) — but not the Reserve Percentage, which is fixed and moves only by unanimous written consent (Section 8.3);
 8.  Collective conservation measures during financial distress (Section 9.3);
@@ -419,7 +469,7 @@ A Member’s Section 7.3 license covers the Company’s own work. It does not re
 4.  **“Loss”** means the excess of Expenses over revenues for a Fiscal Year.
 5.  **“Reserve Percentage”** means the fixed percentage of Surplus retained to the Collective Account each Fiscal Year before anything is distributed, set under Section 8.3.
 6.  **“Distributable Amount”** means Surplus for the Fiscal Year less the Reserve Percentage applied to it, under Section 8.3.
-7.  **“Seat Share”** means the Distributable Amount divided by the number of Seats then outstanding (all Members, plus the Collective Seat if established).
+7.  **“Seat Share”** means the Distributable Amount divided by the number of Seats then outstanding (all Members, plus the Collective Seat if established, plus the Capital Seat while any Capital Advance remains unrepaid).
 8.  **“Member Account”** means each Member’s capital account, increased by allocations of Surplus credited to it and decreased by Losses, distributions, and redemptions.
 9.  **“Collective Account”** means Surplus retained in the Company and not distributed or credited to individual Member Accounts, held as the Company’s shared reserve.
 10. **“Distribution”** means a payment of cash from the Company to a Member with respect to their interest.
@@ -432,13 +482,14 @@ The Company’s Fiscal Year is defined in Section 8.1.2: January 1 through Decem
 
 **The reserve is a fixed percentage, and only unanimity moves it.** For each Fiscal Year the Company retains the Reserve Percentage of Surplus to the Collective Account before anything is distributed — a solvency discipline, per the Preamble. The Reserve Percentage is **ten percent (10%)** unless the Members set a different figure, and it may be set or changed only by the unanimous written consent of every Member: never by Supermajority, and never by the Committee deciding year to year. A change takes effect for the Fiscal Year in which it is adopted and those after it, never retroactively.
 
-This is deliberate. A discretionary reserve is a lever — whoever controls it controls whether anyone is paid at all, including the Contractor Pool, without ever having to break a rule. A fixed percentage that takes everyone’s agreement to move is a number every Member and every contributor can rely on and compute against. It may not be set at a level that would defeat the mandatory minimum cash distributions under Section 8.4 or the Contractor Pool’s payment under Section 8.6.
+This is deliberate. A discretionary reserve is a lever — whoever controls it controls whether anyone is paid at all, including the Contractor Pool, without ever having to break a rule. A fixed percentage that takes everyone’s agreement to move is a number every Member and every contributor can rely on and compute against. It may not be set at a level that would defeat the mandatory minimum cash distributions under Section 8.4 or the Contractor Pool’s or Capital Pool’s payment under Section 8.6.
 
 What remains — the Distributable Amount — is divided equally per Seat, as follows:
 
-1.  Each Member’s Seat Share is allocated to that Member, without regard to hours worked, role, or seniority;
-2.  If the Collective Seat is established, its Seat Share flows to the Contractor Pool under Section 3.4, with any excess over the Pool’s Unpaid Balances re-divided equally among the Member Seats; and
-3.  Loss is allocated equally among Members only; the Contractor Pool never bears Loss and is never obligated to return compensation.
+1.  Each Member’s Seat Share is allocated to that Member, without regard to hours worked, role, or seniority, and is uncapped — a Member Seat has no Threshold;
+2.  If the Collective Seat is established, its Seat Share flows to the Contractor Pool under Section 3.4, with any excess over the Pool’s Unpaid Balances re-divided equally among the Member Seats;
+3.  While any Capital Advance remains unrepaid, the Capital Seat’s Seat Share flows to the Capital Pool under Section 3A.4, with any excess over the Capital Pool’s Unpaid Balances re-divided equally among the Member Seats; and
+4.  Loss is allocated equally among Members only; neither the Contractor Pool nor the Capital Pool ever bears Loss, no Contractor is ever obligated to return compensation, and no Capital Advancer is ever obligated to return a repayment or to advance further funds.
 
 Where a Member was a Member for only part of the year, or was part-time or furloughed under Article 9, that Member’s allocation is pro-rated to reflect the portion of the year they were an active, full participant, using a formula the Committee adopts once and applies uniformly to everyone. Pro-rating reaches only a partial year of membership and part-time or furlough status the Member elected in writing under Section 9.2. It is never applied as a sanction, never applied to one Member on terms not applied to all, and a Member’s allocation is not reduced for illness, injury, caregiving, bereavement, or parental leave of up to twelve (12) weeks in any twelve-month period. No Member is obligated to restore a negative balance in their Member Account, to the Company or to anyone else, at any time, including on dissolution. Amounts payable to Contractors under Shared Member Seat Arrangements are carved out of the Sponsoring Member’s own Seat Share under Section 3.5 and do not affect any other Seat.
 
@@ -452,14 +503,14 @@ Where a Member was a Member for only part of the year, or was part-time or furlo
 
 ## **8.5 No Buy-In; Capital Contributions Voluntary**
 
-No Member is required to contribute capital to join or to remain a Member. A Member may make a voluntary capital contribution, which is credited to that Member’s Account or, if the Member directs and the Committee accepts, to the Collective Account.
+No Member is required to contribute capital to join or to remain a Member. A Member may make a voluntary capital contribution, which is credited to that Member’s Account or, if the Member directs and the Committee accepts, to the Collective Account. A capital contribution under this Section is distinct from a Capital Advance under Article 3A: a contribution becomes part of the contributor’s Member Account, while an advance is a separate, interest-free claim for return of principal through the Capital Seat. A Member chooses which one they are making when they make it.
 
 ## **8.6 Priority of Cash Payments**
 
 The Company makes cash payments in this order of priority:
 
 1.  first, to pay Expenses and to fund the Reserve Percentage to the Collective Account under Section 8.3;
-2.  second, to make the mandatory minimum cash distributions under Section 8.4 and, pari passu, to pay the Contractor Pool its amounts computed under Section 3.4;
+2.  second, to make the mandatory minimum cash distributions under Section 8.4 and, pari passu, to pay the Contractor Pool its amounts computed under Section 3.4 and the Capital Pool its amounts computed under Section 3A.4 — the people doing the work and the at-risk capital that keeps the lights on rank together, and none is senior to another;
 3.  third, to pay any additional distributions Members elect to draw — with each Sponsoring Member’s draw split with their sponsored Contractors under Section 3.5 as it is paid; and
 4.  fourth, to redeem Member Account balances and pay amounts owed to former Members under Section 8.7.
 
@@ -474,7 +525,8 @@ When a Member’s Membership terminates for any reason, including death, the bal
 5.  the Company may offset against the balance any amount the former Member owes the Company;
 6.  the debt is unsecured and is not a claim against Company IP. No former Member may seek or obtain a lien, security interest, or execution against Company IP to satisfy it, and any purported grant or attachment of such an interest is void (Section 9.4). The Work Pool is not collateral for anyone, including the people who built it; and
 7.  no interest accrues during any period of dormancy under Section 9.3, and a deferral properly made under clause 3 is not a default; and
-8.  where the former Member sponsored one or more Contractors under Section 3.5, the Unpaid Balance each of those Contractors held on the date of termination is paid out of the balance in that Member’s Account, in full and before any payment to the former Member under clauses 1 through 3, and pro rata among those Contractors if the Account balance is not enough for all of them. Any reduction under clause 4 and any offset under clause 5 reach only what remains after this clause is satisfied. Sponsorship is the Sponsoring Member’s own commitment, and it is settled out of the Sponsoring Member’s own money before that money is returned to them.
+8.  where the former Member sponsored one or more Contractors under Section 3.5, the Unpaid Balance each of those Contractors held on the date of termination is paid out of the balance in that Member’s Account, in full and before any payment to the former Member under clauses 1 through 3, and pro rata among those Contractors if the Account balance is not enough for all of them. Any reduction under clause 4 and any offset under clause 5 reach only what remains after this clause is satisfied. Sponsorship is the Sponsoring Member’s own commitment, and it is settled out of the Sponsoring Member’s own money before that money is returned to them; and
+9.  a Capital Advance the former Member made is untouched by this Section. Their Unpaid Balance as a Capital Advancer continues to be repaid out of the Capital Seat under Section 3A.4 until it reaches zero, is not accelerated, forfeited, subordinated, reduced under clause 4, or offset under clause 5, and is not converted into the payout debt described above.
 
 ## **8.8 Member Compensation Comes Only from Seats**
 
@@ -512,7 +564,7 @@ The Company does not borrow. Debt is the one force that could take the Work Pool
 1.  **No borrowing.** The Company shall not borrow money, issue notes or other debt instruments, enter into leases or purchase arrangements that function as financing, or guarantee or become surety for the obligation of any person, except the Permitted Obligations in clause 4;
 2.  **No encumbrance of Company IP.** The Company shall not pledge, mortgage, grant a security interest in, or otherwise encumber any Company IP, and no Company IP may serve as collateral for any obligation of the Company, of any Member, or of anyone else. Any purported encumbrance of Company IP is void;
 3.  **No individual authority; personal debt stays personal.** No Member, Officer, or agent has authority to bind the Company to any obligation this Section prohibits. Any attempt is unauthorized and void as against the Company; the person who incurred it bears it personally, shall indemnify the Company against it, and is not indemnified for it under Article 12. So that no counterparty can claim to have extended credit without notice, the Company shall state this Section’s restrictions in its Certificate of Formation and in every written agreement under which a counterparty could extend credit to the Company or take an interest in Company IP. Consistent with Section 5.1, a Member remains free to borrow personally, against their own assets and their own share — but personal debt creates no claim against the Company, any other Member, or Company IP;
-4.  **Permitted Obligations.** The Company may incur only: (a) ordinary trade payables incurred in the ordinary course of business and payable within ninety (90) days (for example, software subscriptions, rent, and vendor invoices); (b) taxes and other government charges; (c) the payout debt owed to former Members under Section 8.7, which arises by operation of this Agreement rather than by borrowing; (d) contingent revenue-share compensation under Article 3, which by its terms is payable only out of Surplus that exists and therefore cannot cascade; and (e) the mandatory minimum cash distributions under Section 8.4; and
+4.  **Permitted Obligations.** The Company may incur only: (a) ordinary trade payables incurred in the ordinary course of business and payable within ninety (90) days (for example, software subscriptions, rent, and vendor invoices); (b) taxes and other government charges; (c) the payout debt owed to former Members under Section 8.7, which arises by operation of this Agreement rather than by borrowing; (d) contingent revenue-share compensation under Article 3, which by its terms is payable only out of Surplus that exists and therefore cannot cascade; (e) the mandatory minimum cash distributions under Section 8.4; and (f) the interest-free repayment of Capital Advances under Article 3A, which by its terms is payable only out of the Capital Seat’s share of revenue that actually arrives and therefore cannot cascade; and
 5.  **Unanimity to change.** This Section may be amended, and any exception to it granted, only by unanimous written consent of all Members — not the Supermajority that suffices elsewhere — because a single borrowing can put every Member’s work at risk.
 
 Notwithstanding the founding-posture provision of the Preamble, this Section applies from the Effective Date, including while the Company has a single Member.
@@ -521,7 +573,7 @@ Notwithstanding the founding-posture provision of the Preamble, this Section app
 
 ## **10.1 Records**
 
-The Company maintains, in secure electronic form, a current list of Members and their contact information; a current list of Contractors and Volunteers, their engagement forms, any Thresholds, and a running record of every Unpaid Balance, including balances held by former Contractors, retained until each is paid to zero; a manifest of the third-party engines, middleware, assets, fonts, open-source components, and AI-generated material used in the Work Pool, recording for each the license terms it is held on and whether those terms let a Member use it under Section 7.3; its Certificate of Formation and this Agreement with all amendments; its tax returns for the most recent six years; its financial statements for the most recent six Fiscal Years; and its books and records for at least the current and prior four Fiscal Years.
+The Company maintains, in secure electronic form, a current list of Members and their contact information; a current list of Contractors and Volunteers, their engagement forms, any Thresholds, and a running record of every Unpaid Balance, including balances held by former Contractors, retained until each is paid to zero; a current list of Capital Advancers, each signed Capital Advance Agreement, and a running record of each Advancer’s principal and Unpaid Balance, retained until each is repaid to zero; a manifest of the third-party engines, middleware, assets, fonts, open-source components, and AI-generated material used in the Work Pool, recording for each the license terms it is held on and whether those terms let a Member use it under Section 7.3; its Certificate of Formation and this Agreement with all amendments; its tax returns for the most recent six years; its financial statements for the most recent six Fiscal Years; and its books and records for at least the current and prior four Fiscal Years.
 
 ## **10.2 Member Access**
 
@@ -543,7 +595,7 @@ On dissolution, the Company’s activities are limited to winding up: collecting
 
 ## **11.3 Distribution of Assets**
 
-Liquidation proceeds are applied: first, to creditors in the order the law requires (other than for distributions); second, and pro rata if what remains is not enough for all of them, to pay Unpaid Balances under Sections 3.4 and 3.5, the balances owed on Member Accounts, and amounts owed to former Members under Section 8.7 — the people who did the work rank together, and Contractors are not made to wait behind Members; and third, any remainder is distributed to the Members equally, or, if the Members so choose by Supermajority at dissolution, donated to one or more organizations the Members approve.
+Liquidation proceeds are applied: first, to creditors in the order the law requires (other than for distributions); second, and pro rata if what remains is not enough for all of them, to pay Unpaid Balances under Sections 3.4 and 3.5, Capital Advancers’ Unpaid Balances (principal only) under Article 3A, the balances owed on Member Accounts, and amounts owed to former Members under Section 8.7 — the people who did the work and the people who funded its survival rank together, and Contractors are not made to wait behind Members; and third, any remainder is distributed to the Members equally, or, if the Members so choose by Supermajority at dissolution, donated to one or more organizations the Members approve. In no event does a Capital Advancer receive more than the principal advanced; capital earns no gain on dissolution.
 
 ## **11.4 Disposition of Company IP on Dissolution**
 
@@ -563,7 +615,7 @@ The Company indemnifies its Members and Officers, to the fullest extent the Act 
 
 ## **13.1 Amendments**
 
-Any Member may propose an amendment to this Agreement. An amendment is adopted only on Supermajority approval of the Members, except that the following require the unanimous written consent of all Members: any amendment to Section 9.4 or exception granted under it, as that Section provides; and any amendment that would (a) create more than one class of Member, (b) require a buy-in or capital contribution to join or remain, (c) make governance rights or Seat Shares unequal among Members, (d) allow membership or the economic rights that come with it to be sold, transferred, or inherited, (e) narrow the perpetual license in Section 7.3 or the delivery obligation in clause 7 of it, (f) allow the Company to employ wage or salaried personnel (Sections 3.2, 8.8), (g) permit a contributor to work beyond six (6) months without admission, except as Section 2.3 itself allows, (h) transfer the Company’s business or substantially all of the Work Pool to an entity that is not worker-owned, or (i) convert the Company to a form that is not a worker-owned cooperative.
+Any Member may propose an amendment to this Agreement. An amendment is adopted only on Supermajority approval of the Members, except that the following require the unanimous written consent of all Members: any amendment to Section 9.4 or exception granted under it, as that Section provides; and any amendment that would (a) create more than one class of Member, (b) require a buy-in or capital contribution to join or remain, (c) make governance rights or Seat Shares unequal among Members, (d) allow membership or the economic rights that come with it to be sold, transferred, or inherited, (e) narrow the perpetual license in Section 7.3 or the delivery obligation in clause 7 of it, (f) allow the Company to employ wage or salaried personnel (Sections 3.2, 8.8), (g) permit a contributor to work beyond six (6) months without admission, except as Section 2.3 itself allows, (h) transfer the Company’s business or substantially all of the Work Pool to an entity that is not worker-owned, (i) convert the Company to a form that is not a worker-owned cooperative, (j) cause a Capital Advance to bear interest or any return beyond repayment of principal, or (k) make the Capital Seat senior to the Members’ mandatory minimums or the Contractor Pool under Section 8.6.
 
 These are the terms that make this a cooperative rather than a company that currently happens to be run by its workers. A future majority that wants a payday can find one; it will not find it here. While the Company has a single Member, the Founding Member may amend this Agreement in writing, consistent with the Act. Exhibit A (the Statement of Business Practices) is non-binding and may be revised by Majority without formal amendment; the forms at Exhibits B and C may be updated by the Secretary, provided updates conform to Articles 3 and 7.
 
