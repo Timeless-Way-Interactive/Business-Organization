@@ -54,6 +54,14 @@ This is the recommended approach over an “equity buy-back at fair market value
 
 It also separates cleanly from IP: the leaver keeps their Section 7.3 license (they take the work with them) and gets their economic balance paid out. The two are independent, which is what you want.
 
+### DRAFTING NOTE — Capital Advances: characterization and securities exposure
+
+*From: Article 3A Capital Advances and the Capital Seat*
+
+Three questions before the first advance is accepted. (1) **Securities.** An advance from someone who is not a Member, repayable out of future revenue, may be read as a note or investment contract under federal and Texas securities law even with no interest attached. Confirm whether advances should be limited to Members, or what exemption covers outsiders. (2) **Tax characterization.** Is an advance a loan, a capital contribution, or something else for partnership tax purposes, and how do repayments through the Capital Seat land on each Member’s K-1? An interest-free loan from a partner can trigger imputed-interest rules; confirm they don’t bite at the sizes contemplated. (3) **Section 9.4 consistency.** Confirm a lender, court, or the IRS would not treat an advance as borrowing despite 3A.5 saying it isn’t.
+
+Also open, not a legal question but a design one: Section 8.7, clause 2 still accrues interest on the payout debt owed to departing Members. The 13.1(j) entrenchment covers Capital Advances only, so the two are consistent as drafted — but decide whether the no-interest principle should reach 8.7 too.
+
 ### DRAFTING NOTE — entity tax classification is not yet settled here
 
 *From: 10.3 Tax Reporting*
