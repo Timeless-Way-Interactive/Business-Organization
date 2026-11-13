@@ -91,6 +91,54 @@ A publisher negotiating an “exclusive” license will discover in diligence th
 
 ---
 
+## Music License Agreement
+
+### Can a licensor sit in the Contractor Pool?
+
+*From: 2. Payment — Collective Seat (Option A)*
+
+The License pays its fee the Option A way: a fixed Unpaid Balance, paid out of the Collective Seat. The Operating Agreement only contemplates Contractors there. Section 1 defines a Contractor as a person engaged to perform work, Section 3.4 admits Contractors to the Pool, and Section 9.4, clause 4(d) permits a contingent obligation only as “revenue-share compensation under Article 3.” A musician licensing a song they already wrote performs no work. The License bridges the gap by seating the Licensor “on the same footing as a Contractor whose engagement has ended,” and by granting Section 3.4 and 8.6 enforcement rights by contract, since the third-party-beneficiary clause in Section 3.3 names only Contractors and Volunteers.
+
+Ask counsel whether that holds, or whether Sections 1 and 3.4 and Section 9.4, clause 4(d) should say outright that a licensor paid under Section 3.4 is covered. The Section 9.4 point is the one that matters: if the fee is not a Permitted Obligation, a deferred license fee could read as the extension of credit that Section 9.4 forbids. Amending Section 9.4 takes unanimous written consent.
+
+### Withholding on royalties paid abroad
+
+*From: 2.8 Taxes*
+
+The Company’s posture for foreign contributors — services performed abroad are foreign-source, so nothing is withheld — does not carry over. A license fee is a royalty, sourced where the song is used, so the part attributable to US sales of the Game is US-source income to a foreign Licensor: 30% withholding unless a treaty lowers it, a W-8BEN that claims the treaty rate, and Forms 1042 and 1042-S. Ask the CPA how to split a fixed Balance between US and foreign use when it is paid out over years from the Collective Seat. Also confirm that payments to US Licensors are reported as royalties on Form 1099-MISC rather than as nonemployee compensation on Form 1099-NEC.
+
+
+---
+
+## Individual Contributor Agreement — Music
+
+### Does the co-ownership grant fit Sections 3.7, 5.3, and 9.4?
+
+*From: 5.1, 6.5, and 6.6*
+
+The form is built to satisfy Section 3.7 as written: Section 5 assigns everything, the Music included, as a work made for hire, and the Company grants the musician an undivided share only on Kickstarter Failure. Ask counsel to confirm three things. (1) That a share the Company grants back is not "a contributor's retained right" under Section 3.7. (2) That the grant is a Section 5.3(4) matter ("selling Company IP"), so recording it in the same Supermajority vote that admits the musician to the Contractor Pool is enough authority — or, if it is not a reserved matter at all, that the vote is harmless. (3) That a co-ownership share with the mutual consent and no-encumbrance language in Section 6.6 is not an encumbrance of Company IP under Section 9.4, clause 2, whose exceptions take unanimity.
+
+### Co-ownership outside the United States
+
+*From: 6.6*
+
+In the US, a co-owner may license non-exclusively without the other's consent, subject to a duty to account that Section 6.6 waives. In the UK and much of the EU, every co-owner must consent to a license, and the rules for joint works can differ again. Section 6.6 gives that consent in advance and irrevocably. Confirm that advance consent satisfies those regimes, including for the Members' Section 7.3 licenses, which reach the Music through the Company's share.
+
+### Publishers must carve out the musician
+
+*From: 6.6*
+
+After Kickstarter Failure, no license the Company grants can be exclusive against the musician. Any exclusive publishing or soundtrack deal will need the carve-out already noted for Members under the Member Perpetual License (exclusivity as against everyone except Members), extended to co-owning musicians. Disclose it in the first conversation, and record each co-owner's share in the Section 10.1 manifest so diligence finds it.
+
+### An irrevocable license to the Game's name and imagery
+
+*From: 7.1*
+
+The social-media license lets the Contributor show the Game's name and imagery, perpetually and without approval. Section 7.3 deliberately keeps trademarks out of the Member license, and a trademark license with no quality control can weaken the mark. Ask counsel whether the freedom needs a light limit — truthful and non-confusing, as Section 7.3, clause 6 says for Members — to keep the mark safe without narrowing what the musician may make.
+
+
+---
+
 ## Open items added by the adversarial review
 
 These are not from the original notes; they are questions the review surfaced that only

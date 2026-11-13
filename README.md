@@ -8,10 +8,12 @@ doc changes upstream, re-export it here in the same commit style.
 | --- | --- |
 | [Operating Agreement](Operating-Agreement.md) | [Google Doc](https://docs.google.com/document/d/1Rv1QjxmFArw4-zxytXy1YKWaJrqFZawJkMSfT3OPmw8/edit) |
 | [Individual Contributor Agreement](Individual-Contributor-Agreement.md) (Exhibit B) | [Google Doc](https://docs.google.com/document/d/1eQuSVJEfXI5LuzyAmxxYyabqnjKchXgpBFUTQFyUQdk/edit) |
+| [Individual Contributor Agreement — Music](Individual-Contributor-Agreement-Music.md) (Exhibit B, Collective Seat) | Drafted here — no upstream doc yet |
 | [Member Perpetual License](Member-Perpetual-License.md) (Exhibit C) | [Google Doc](https://docs.google.com/document/d/1gfziXXNAUx-OGxcYpK_2zhzpN5sSt1uCcNhyrvYqAEY/edit) |
 | [Joinder Agreement](Joinder-Agreement.md) | Drafted here — no upstream doc yet |
 | [Work Pool Contribution and Assignment](Work-Pool-Contribution-Agreement.md) | Drafted here — no upstream doc yet |
 | [Work Pool Acceptance Consent](Work-Pool-Acceptance-Consent.md) | Drafted here — no upstream doc yet |
+| [Music License Agreement](Music-License-Agreement.md) | Drafted here — no upstream doc yet |
 | [Counsel Questions](Counsel-Questions.md) | Working memo — no upstream doc |
 
 The Operating Agreement is a revised draft and is **not yet executed**. The form
